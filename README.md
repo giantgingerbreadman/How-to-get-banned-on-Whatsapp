@@ -1,6 +1,12 @@
 # Whatsapp-spammer
 The bot that sends entire text files word by word. Corona lockdown is the one to blame 
 
+#UPDATES
+The line by line version sends , you guessed it , lines from a text file.Personally , this is my favorite coz atleast it makes a little sense
+
+The SRT version basically allows you to watch a movie through the subtitles coz it sends the texts in sync with when it would have been said in the film
+
+
 Use at your own risk. You WILL get blocked
 
 
